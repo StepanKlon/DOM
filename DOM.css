@@ -1,0 +1,27 @@
+
+h1 {
+    color: red;
+  }
+  
+  h2 {
+    color: purple;
+  }
+  
+  ol {
+    list-style-type: upper-roman;
+  }
+  
+  ul {
+  list-style-type: square;
+   }
+  
+  .barva {
+    color: violet;
+    text-decoration: underline;
+  }
+  .podtrhnout {
+    text-decoration: underline;
+  }
+  p {
+    width: 450px;
+  }
